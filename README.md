@@ -1,4 +1,4 @@
-<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://github.com/Nerez5k/nerez5k/blob/main/ztw1.jpg?raw=true" />
+<img width="3484" height="700" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://github.com/Nerez5k/nerez5k/blob/main/ztw1.jpg?raw=true" />
 
 # ahoy!! i'm `nerez`~!!!!
 

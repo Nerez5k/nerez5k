@@ -1,4 +1,12 @@
-## Hi there 👋
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://github.com/Nerez5k/nerez5k/blob/main/ztw1.jpg?raw=true" />
+
+# ahoy!! i'm `nerez`~!!!!
+
+i'm a `pl`-based tech enthusiast hooked on ML
+
+dp | lml | llm | saas
+
+
 
 <!--
 **Nerez5k/nerez5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
